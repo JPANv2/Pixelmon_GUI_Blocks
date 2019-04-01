@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jpan_Pixelmon_gui_blocks",
+  "name": "Pixelmon GUI Blocks",
+  "description": "Adds a TM vending machine and a Move Relearner block",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JPAN"],
+  "credits": "Pixelmon Team for making Pixelmon",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

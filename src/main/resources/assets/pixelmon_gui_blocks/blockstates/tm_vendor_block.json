@@ -1,0 +1,15 @@
+{
+"forge_marker": 1,
+  "defaults": {
+    "model": "pixelmon_gui_blocks:machine",
+    "textures": {
+      "end": "blocks/furnace_top",
+      "side": "pixelmon_gui_blocks:blocks/tm_vendor_block_sides"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal":[{}],
+    "inventory": [{"transform": "forge:default-block"}]
+    }
+}
